@@ -15,6 +15,18 @@ Your app must let users:
 
 This is a static app (`HTML`, `CSS`, `JavaScript`) with no server and no external database. You will publish it with GitHub Pages.
 
+## Guided Issue Path
+Follow the issues in order:
+
+- [ ] [Step 1: Set Up GitHub and Your Tools](../../issues/1)
+- [ ] [Step 2: Build the Base Link Dashboard in AntiGravity](../../issues/2)
+- [ ] [Step 3: Add At Least 2 Feature Upgrades](../../issues/3)
+- [ ] [Step 4: Design Pass (Make It Feel Intentional)](../../issues/4)
+- [ ] [Step 5: Push Your Project to GitHub](../../issues/5)
+- [ ] [Step 6: Deploy with GitHub Pages](../../issues/6)
+- [ ] [Step 7: Submit to Canvas](../../issues/7)
+- [ ] [Troubleshooting Guide](../../issues/8)
+
 ## Live Demo
 Add your demo link here.
 
